@@ -472,7 +472,7 @@ div {
 }
 
 .g1 {
-  position: absolute;
+  position: relative;
   top: 0;
 
   width: 1448px;
