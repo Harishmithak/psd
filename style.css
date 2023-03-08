@@ -199,6 +199,7 @@ div {
   left: 0;
 }
 
+<<<<<<< HEAD:style.css
 .D1 {
   width: 1440px;
   height: 800px;
@@ -311,6 +312,9 @@ div {
 }
 
 .F1 {
+=======
+.g1 {
+>>>>>>> a7e0aabef0eb2ffe1b42455cd306f673b6c7c043:external.css
   position: relative;
   top: 0;
 
