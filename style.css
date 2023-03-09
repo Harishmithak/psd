@@ -229,18 +229,26 @@ div {
 
 .D3 {
   position: absolute;
-  top: 35px;
+  top: 25px;
   left: 30px;
-
+  font-size: 150px;
+  text-transform: uppercase;
+  color: #e63956;
+  font-weight: 900;
+  font-family: "Roboto";
 
 
 }
 
 .D4 {
   position: absolute;
-  top: 180px;
+  top: 200px;
   left: 30px;
-
+  font-size: 64px;
+  text-transform: uppercase;
+  color: #55112e;
+  font-weight: 900;
+  font-family: "Roboto";
 
 
 }
@@ -249,7 +257,11 @@ div {
   position: absolute;
   top: 250px;
   left: 30px;
-
+  font-size: 104px;
+  text-transform: uppercase;
+  color: #6cc5ac;
+  font-weight: 900;
+  font-family: "Roboto";
 
 
 }
