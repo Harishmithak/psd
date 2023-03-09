@@ -1,5 +1,7 @@
 /* NAVIGATION BAR */
-
+body{
+  overflow-x: hidden;
+}
 div {
   background-color: #4a1831;
 
