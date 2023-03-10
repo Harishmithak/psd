@@ -1,9 +1,12 @@
 /* NAVIGATION BAR */
+.nav{
+  background-color: #4a1831;
+}
 body{
   overflow-x: hidden;
 }
 div {
-  background-color: #4a1831;
+   background-color: #4a1831; 
 
   font-family: 'Montserrat', sans-serif;
   font-size: 15px;
@@ -467,6 +470,7 @@ div {
 }
 
 
+
 .row {
   padding-top: 240px;
   padding-left: 20px;
@@ -481,7 +485,7 @@ div {
 
 
 .row pre {
-
+ 
   font-size: 20px;
   line-height: 42px;
   color: #ffd7ad;
@@ -491,6 +495,7 @@ div {
 
 .social{
   width: 50px;
+
   height: 50px;
 
 }
@@ -501,5 +506,5 @@ div {
 .fa-2{
   width: 50px;
   height: 50px;
-  font-size: 35px;
+  font-size: 35px; 
 }
